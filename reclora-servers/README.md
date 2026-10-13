@@ -1,1 +1,27 @@
 
+# Rec Room Revival / Local Server Showcase badges
+
+Copy and paste these into a GitHub README. They are **showcase/category labels**, not claims that each project or feature is currently available. Each badge links to a GitHub repository search; replace those destinations with direct project URLs as you curate the showcase.
+
+```md
+[![RecLora | Revival Server](https://img.shields.io/badge/RecLora-Revival%20Server-5865F2?style=for-the-badge)](https://github.com/search?q=RecLora+Rec+Room&type=repositories)
+[![Revival Servers | Browse](https://img.shields.io/badge/Revival%20Servers-Browse-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+revival+server&type=repositories)
+[![Local Hosting | Self-hosted](https://img.shields.io/badge/Local%20Hosting-Self--hosted-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+local+server&type=repositories)
+[![Community Servers | Explore](https://img.shields.io/badge/Community%20Servers-Explore-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+community+server&type=repositories)
+[![Custom Rooms | Discover](https://img.shields.io/badge/Custom%20Rooms-Discover-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+custom+rooms&type=repositories)
+[![Room Hosting | Browse](https://img.shields.io/badge/Room%20Hosting-Browse-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+room+hosting&type=repositories)
+[![Private Lobbies | Explore](https://img.shields.io/badge/Private%20Lobbies-Explore-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+private+lobby+server&type=repositories)
+[![Legacy Clients | Compatibility](https://img.shields.io/badge/Legacy%20Clients-Compatibility-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+legacy+client&type=repositories)
+[![Custom Clients | Discover](https://img.shields.io/badge/Custom%20Clients-Discover-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+custom+client&type=repositories)
+[![Server Emulation | Browse](https://img.shields.io/badge/Server%20Emulation-Browse-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+server+emulator&type=repositories)
+[![API Compatibility | Explore](https://img.shields.io/badge/API%20Compatibility-Explore-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+API+compatibility&type=repositories)
+[![Authentication | Projects](https://img.shields.io/badge/Authentication-Projects-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+authentication+server&type=repositories)
+[![Matchmaking | Projects](https://img.shields.io/badge/Matchmaking-Projects-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+matchmaking+server&type=repositories)
+[![Player Presence | Explore](https://img.shields.io/badge/Player%20Presence-Explore-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+presence+server&type=repositories)
+[![Worlds & Rooms | Browse](https://img.shields.io/badge/Worlds%20%26%20Rooms-Browse-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+worlds+rooms&type=repositories)
+[![Creator Tools | Discover](https://img.shields.io/badge/Creator%20Tools-Discover-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+creator+tools&type=repositories)
+[![Mods & Plugins | Explore](https://img.shields.io/badge/Mods%20%26%20Plugins-Explore-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+mods+plugins&type=repositories)
+[![Setup Guides | Read](https://img.shields.io/badge/Setup%20Guides-Read-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+server+setup&type=repositories)
+[![Open Source | Projects](https://img.shields.io/badge/Open%20Source-Projects-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+revival+open+source&type=repositories)
+[![Preservation | Community](https://img.shields.io/badge/Preservation-Community-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+preservation+community&type=repositories)
+```
