@@ -1,9 +1,3 @@
-
-# Rec Room Revival / Local Server Showcase badges
-
-Copy and paste these into a GitHub README. They are **showcase/category labels**, not claims that each project or feature is currently available. Each badge links to a GitHub repository search; replace those destinations with direct project URLs as you curate the showcase.
-
-```md
 [![RecLora | Revival Server](https://img.shields.io/badge/RecLora-Revival%20Server-5865F2?style=for-the-badge)](https://github.com/search?q=RecLora+Rec+Room&type=repositories)
 [![Revival Servers | Browse](https://img.shields.io/badge/Revival%20Servers-Browse-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+revival+server&type=repositories)
 [![Local Hosting | Self-hosted](https://img.shields.io/badge/Local%20Hosting-Self--hosted-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+local+server&type=repositories)
@@ -24,4 +18,3 @@ Copy and paste these into a GitHub README. They are **showcase/category labels**
 [![Setup Guides | Read](https://img.shields.io/badge/Setup%20Guides-Read-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+server+setup&type=repositories)
 [![Open Source | Projects](https://img.shields.io/badge/Open%20Source-Projects-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+revival+open+source&type=repositories)
 [![Preservation | Community](https://img.shields.io/badge/Preservation-Community-5865F2?style=for-the-badge)](https://github.com/search?q=Rec+Room+preservation+community&type=repositories)
-```
